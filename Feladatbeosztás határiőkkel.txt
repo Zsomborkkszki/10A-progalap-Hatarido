@@ -1,0 +1,21 @@
+10A progalap projektmunka
+
+A 4 fő feladatrész szerinti felosztás:
+
+-Szilágyi Zsombor:
+	-Bejelentkezés/Regisztráció. Határidő: 12.27.
+	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
+
+-Fejes Máté:
+	-Bejegyzések tartósan tárólhatósága, Határidő: 12.28. 
+	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
+
+-Kocsis Roland: 
+	-A bejegyzések karbantartása. Határidő: 12.28.
+	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
+
+
+Prezentáció: Közös feladat (mindenki a saját feladatáról készít diákat és a munka végeztével ezek a diák összefűzésre kerülnek). Határidő: 1.5. 
+A „bejegyzéseket különböző szempontok szerinti listázása” feladat ezen feladatok után közös erővel valósul meg.
+A fejlesztői dokumentáció minden részfeladat megvalósulása után dokumentálva lesz a github felületre.
+A felhasználói dokumentáció a teljes megvalósítása és tesztelése után készül el várhatóan 2025.1.4.    Ezek dátumok változtatására való jogát fenntartom. 
