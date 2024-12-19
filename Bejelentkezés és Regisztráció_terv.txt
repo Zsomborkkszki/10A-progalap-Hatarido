@@ -1,0 +1,16 @@
+Bejelentkezés/Regisztráció:
+
+A program megkérdezi hogy új felhasználó-e az illető, ha igen akkor a regisztrációs alprogram rész fut, ha nem akkor a bejelentkezési alprogram.
+
+Regisztrációs alprogram:
+	-Először a program felhasználó nevet kér: Nem lehet üres és nem tartalmazhat speciális karaktereket pl.: @,!,?,>...stb
+	-Utána egy jelszót kér a program: Itt nincs megkötés karakterek terén csak a hosszával kapcsolatban pl.: a jelszó nem lehet rövidebb 4 karakternél és legalább egy 	speciális karaktert kell tartalmaznia.
+	-Ez után a felhasználó e-mail címét. Ha a felhasználó nem az igazi e-mail címet adja meg akkor a bejelentkezés során problémába ütközhet.
+	-Ezután az alprogram létrehozza a "felhasználót"
+Bejelentkezés alprogram:
+	-Először megkérdezi a felhasználó nevet
+	-Utána a jelszót
+	-*Extra*: Küld egy megerősítő kódot a program az e-mailjára hogy biztos ő a felhasználó
+	-*Extra*:Lesz egy Admin felhasználó létrehozva aki látni fogja az összes adatot a létrehozott felhasználóknál
+
+Az extra dolgok nem befolyásolják a program működését így kihagyhatóak.
