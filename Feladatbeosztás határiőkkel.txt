@@ -7,11 +7,11 @@ A 4 fő feladatrész szerinti felosztás:
 	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
 
 -Fejes Máté:
-	-Bejegyzések tartósan tárólhatósága, Határidő: 12.28. 
+	-Bejegyzések tartósan tárólhatósága, Határidő: 12.30. 
 	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
 
 -Kocsis Roland: 
-	-A bejegyzések karbantartása. Határidő: 12.28.
+	-A bejegyzések karbantartása. Határidő: 12.30.
 	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
 
 
