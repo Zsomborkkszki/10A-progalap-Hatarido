@@ -3,11 +3,11 @@
 A 4 fő feladatrész szerinti felosztás:
 
 -Szilágyi Zsombor:
-	-Bejelentkezés/Regisztráció. Határidő: 12.27.
+	-Bejelentkezés/Regisztráció. Határidő: 12.27. -Kész-
 	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
 
 -Fejes Máté:
-	-Bejegyzések tartósan tárólhatósága, Határidő: 12.30. 
+	-Bejegyzések tartósan tárólhatósága, Határidő: 12.30. -Kész-
 	-A bejegyzéseket különböző szempontok szerinti listázása. Határidő: 1.4.
 
 -Kocsis Roland: 
