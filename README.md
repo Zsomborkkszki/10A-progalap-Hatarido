@@ -6,4 +6,4 @@ Indítsd el a "Hataridonaplo.py" fájlt. A terminálban tudod kezelni a proramot
 A program mindent tisztán és átláthatóan leír hogy mit tudsz és mit nem a programon belül csinálni.
 
 
-Made by: Szilágyi Zsombor, Fejes Máté Csaba, Kocsi Roland Milán
+Made by: Szilágyi Zsombor, Fejes Máté Csaba, Kocsis Roland Milán
