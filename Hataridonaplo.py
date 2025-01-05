@@ -141,8 +141,8 @@ class HataridonaploApp:
             except ValueError:
                 print("Hibás adat. Kérlek, számot adj meg!")
     
-    def feladatok_listazasa(self, szuro):
-        print("\nFeladatok listázása:")
+    def bejegyzesek_listazasa(self, szuro):
+        print("\nBejegyzesek listázása:")
         if szuro == "elvegzendo":
             print("Elvégzendő feladatok:")
             for nap, orak in self.adatok.items():
@@ -198,9 +198,9 @@ class HataridonaploApp:
                 print("2. A hátralévő bejegyzések abc sorrend szerinti kiírása: ")
                 szuro_valasz = input("Választás (1-2): ")
                 if szuro_valasz == "1":
-                    self.feladatok_listazasa("elvegzendo")
+                    self.bejegyzesek_listazasa("elvegzendo")
                 elif szuro_valasz == "2":
-                    self.feladatok_listazasa("abcsorrend")
+                    self.bejegyzesek_listazasa("abcsorrend")
                 else:
                     print("Hibás választás!")
             elif valasz == "6":
