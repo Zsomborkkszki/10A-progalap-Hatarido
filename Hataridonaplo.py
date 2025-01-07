@@ -195,7 +195,7 @@ class HataridonaploApp:
             elif valasz == "5":
                 print("\nVálassz egy szűrőt:")
                 print("1. Elvégzendő feladatok")
-                print("2. A hátralévő bejegyzések abc sorrend szerinti kiírása: ")
+                print("2. A hátralévő bejegyzések ABC sorrend szerinti kiírása: ")
                 szuro_valasz = input("Választás (1-2): ")
                 if szuro_valasz == "1":
                     self.bejegyzesek_listazasa("elvegzendo")
