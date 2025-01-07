@@ -22,7 +22,7 @@ def register():
     users = load_users()
 
     print("\n--- Regisztráció ---")
-    username = input("Felhasználónév: ").strip()
+    username = input("Felhasználónév(Ékezetek nélkül): ").strip()
     if username in users:
         print("A felhasználónév már létezik. Kérlek, próbálj meg egy másikat.")
         return
