@@ -178,7 +178,7 @@ class HataridonaploApp:
             valasz = input("Választás (1-6): ")
 
             if valasz == "1":
-                nap = self.nap_beker()
+                nap = self.nap_beker().lower
                 ora = self.ora_beker()
                 bejegyzes = input("Mi legyen a bejegyzes?: ")
                 self.uj_bejegyzes(nap, ora, bejegyzes)
